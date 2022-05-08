@@ -23,7 +23,7 @@
 <br />
 </label>
 <label>
-<input type="radio" name="r3" value="prod" />product
+<input type="radio" name="r3" value="prod" />success
 <br />
 </label>
 </div>
